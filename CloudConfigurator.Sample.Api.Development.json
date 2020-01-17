@@ -5,10 +5,10 @@
     },
     
     "Cloud":{
-        "Name":"Cloud"
+        "Name":"GitCloud"
     },
     "CloudConfiguration":{
-        "AppName":"Tui.CloudConfigurator.Sample.Api",
+        "AppName":"CloudConfigurator.Sample.Api",
         "Environment":"Development"
     }
 }
