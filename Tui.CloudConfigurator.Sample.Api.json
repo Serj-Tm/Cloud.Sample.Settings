@@ -1,0 +1,14 @@
+{
+    "Bus": {
+        "BrokerList": "10.20.20.45:9092",
+        "CloudConfigurationInputQueue": "cloud-configuration"
+    },
+    
+    "Cloud":{
+        "Name":"Cloud"
+    },
+    "CloudConfiguration":{
+        "AppName":"Tui.CloudConfigurator.Sample.Api",
+        "Environment":"Development"
+    }
+}
