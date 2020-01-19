@@ -6,9 +6,5 @@
     
     "Cloud":{
         "Name":"GitCloud.2"
-    },
-    "CloudConfiguration":{
-        "AppName":"CloudConfigurator.Sample.Api",
-        "Environment":"Development"
     }
 }
