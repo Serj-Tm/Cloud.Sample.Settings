@@ -1,13 +1,10 @@
 {
-    "Bus": {
-        "BrokerList": "10.20.20.45:9092",
-        "CloudConfigurationInputQueue": "cloud-configuration"
-    },
     "CloudConfiguration":{
         "Roles":[
             "CloudConfigurationBus"
         ]
     },
+    
     "Cloud":{
         "Name":"GitCloud.2"
     }
